@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for htmx-vscode-toolkit.
+- fix a small wording issue
