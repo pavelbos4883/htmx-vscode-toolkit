@@ -10,3 +10,4 @@ Notes and usage details for htmx-vscode-toolkit.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
