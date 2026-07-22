@@ -16,3 +16,4 @@ Notes and usage details for htmx-vscode-toolkit.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
